@@ -165,9 +165,6 @@ npm start
 npm i -g forever && forever index.js && forever save && forever logs
 ```
 <br>
-
-<a><img src='https://i.imgur.com/LyHic3i.gif'
-
 -------
 ## ```YOUTUBE CHANNEL FOR TUTORIALS```
 
